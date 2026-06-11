@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <h1>{{ page.title | default: site.title }}</h1>
+  <p>{{ page.excerpt | default: site.description }}</p>
+</section>
+
+{% if page.sections %}
+<section class="section-nav">
+  <div class="section-nav__grid">
+    {% for section in page.sections %}
+      <a class="section-card" href="{{ section.url | relative_url }}">
+        <span class="section-card__icon" aria-hidden="true">{{ section.icon }}</span>
+        <div>
+          <h2>{{ section.title }}</h2>
+          <p>{{ section.description }}</p>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="page-body">
+  {{ content }}
+</section>

@@ -1,15 +1,16 @@
-title: Portfolio - Hillel B. Price
-email: your-email@example.com
-description: "Personal portfolio website for Jedi Master Hillel B. Price, Ph.D."
+title: About HBP
+email: hbprice65@gmail.com
+description: ""
 baseurl: ""
 url: "https://hbprice65.github.io"
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-markdown: kramdown
-kramdown:
-  input: GFM
+  # - jekyll-run
+# markdown: kramdown
+# kramdown:
+#   input: GFM
 exclude:
   # - README.md
   - Gemfile
