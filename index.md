@@ -3,22 +3,30 @@ layout: home
 title: Hillel B. Price, Ph.D.
 excerpt: Expert Engineer in Systems, Optical, Hardware, Imaging, Clinical, Biomedical, Photonics, Microscopy, Spectroscopy, 3D printing.
 sections:
-  - title: Bios
-    url: "#bios"
-    description: "Background, education, and experience."
+  - title: Bio
+    url: "#bio"
+    # description: "Background, education, and experience."
     icon: "👤"
   - title: Research Projects
     url: "#research-projects"
-    description: "Selected projects in imaging, optics, and systems engineering."
-    icon: "🧪"
+    # description: "Selected projects in imaging, optics, and systems engineering."
+    icon: "🔬"
   - title: Publications
     url: "#publications"
-    description: "Peer-reviewed work, Google Scholar, and ORCiD listings."
-    icon: "📚"
+    # description: "Peer-reviewed work, Google Scholar, and ORCiD listings."
+    icon: "🎓"
   - title: Clinical Work
     url: "#clinical-work"
-    description: "Biomedical studies, clinical imaging, and translational research."
-    icon: "⚕️"
+    # description: "Biomedical studies, clinical imaging, and translational research."
+    icon: "👁️"
+  - title: Leadership and Awards
+    url: "#leadership"
+    # description: "Community involvement and accomplishments."
+    icon: "🏆"
+  - title: Fun Stuff
+    url: "#fun-stuff"
+    # description: "Other stuff I'm into."
+    icon: "❓"
 ---
 
 Expert Engineer in Systems, Optical, Hardware, Imaging, Clinical, Biomedical, Photonics, Microscopy, Spectroscopy, 3D printing.
@@ -27,7 +35,7 @@ Since 2009 I have worked as a employee and student in biomedical optics/imaging 
 
 Complete lists of my peer-reviewed publications can be found at my Google Scholar and ORCiD pages.
 
-## Bios
+## Bio
 
 Professional biography, academic training, and systems engineering experience.
 
