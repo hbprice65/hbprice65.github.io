@@ -7,13 +7,13 @@ layout: default
   <p>{{ page.excerpt | default: site.description }}</p>
 </section>
 
-{% if page.intro_image or page.excerpt_separator %}
+{% if page.intro_image or page.intro_text %}
 <section class="intro-grid">
   {% if page.intro_image %}
     <img class="intro-grid__image" src="{{ page.intro_image | relative_url }}" alt="{{ page.intro_alt | default: page.title }}" />
   {% endif %}
   <div class="intro-grid__text">
-    {{ page.intro_text }}
+    {{ page.intro_text | markdownify }}
   </div>
 </section>
 {% endif %}
