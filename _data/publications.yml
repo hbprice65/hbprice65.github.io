@@ -1,0 +1,368 @@
+# Generated from ORCID profile: 0000-0002-5299-9421
+# Updated: 2026-06-12T19:32:56Z
+
+- title: Prospective Identification of Dysplasia in Barrett's Esophagus With Combined Optical Coherence Tomography and Light Scattering Measurements.
+  authors:
+    - Adam Wax
+    - Haoran Zhang
+    - Evan T Jelly
+    - Hillel B Price
+    - Tengfei Sun
+    - Kengyeh K Chu
+    - Cary C Cotton
+    - Swathi Eluri
+    - John R Goldblum
+    - Nicholas J Shaheen
+  journal: Journal of Biophotonics
+  year: 2026
+  type: "journal-article"
+  url: "https://doi.org/10.1002/jbio.202500380"
+  citation: "Adam Wax, Haoran Zhang, Evan T Jelly et al. Prospective Identification of Dysplasia in Barrett's Esophagus With Combined Optical Coherence Tomography and Light Scattering Measurements.. Journal of Biophotonics. 2026."
+- title: "High-Performance, Low-Cost Optical Coherence Tomography System Using a Jetson Orin Nano for Real-Time Control and Image Processing."
+  authors:
+    - Wan Wang
+    - David A Miller
+    - Hillel B Price
+    - Xiangyue Yang
+    - William J Brown
+    - Adam Wax
+  journal: "Translational Vision Science & Technology"
+  year: 2025
+  type: "journal-article"
+  url: "https://doi.org/10.1167/tvst.14.3.24"
+  citation: "Wan Wang, David A Miller, Hillel B Price et al. High-Performance, Low-Cost Optical Coherence Tomography System Using a Jetson Orin Nano for Real-Time Control and Image Processing.. Translational Vision Science & Technology. 2025."
+- title: "Development of next generation low-cost OCT towards improved point-of-care retinal imaging"
+  authors:
+    - Hillel B. Price
+    - Ge Song
+    - Wan Wang
+    - Erin O’Kane
+    - Kechao Lu
+    - Evan Jelly
+    - David A. Miller
+    - Adam Wax
+  journal: Biomedical Optics Express
+  year: 2025
+  type: "journal-article"
+  url: "https://doi.org/10.1364/BOE.551625"
+  citation: "Hillel B. Price, Ge Song, Wan Wang et al. Development of next generation low-cost OCT towards improved point-of-care retinal imaging. Biomedical Optics Express. 2025."
+- title: "Multimodal segmentation of dynamic subcellular features using quantitative phase imaging and FRET-based sensors [Invited]"
+  authors:
+    - Robert E. Highland
+    - Albert Rancu
+    - Hillel Price
+    - Steven M. Parker
+    - Meghan Reynolds
+    - Brenton D. Hoffman
+    - Adam Wax
+  journal: Journal of the Optical Society of America A
+  year: 2024
+  type: "journal-article"
+  url: "https://doi.org/10.1364/JOSAA.534440"
+  citation: "Robert E. Highland, Albert Rancu, Hillel Price et al. Multimodal segmentation of dynamic subcellular features using quantitative phase imaging and FRET-based sensors [Invited]. Journal of the Optical Society of America A. 2024."
+- title: "Dual Spectrometer Alignment, Optimization, and Phantom-based Recalibration Towards Retinal Measurement via Balanced Detection Low-cost Optical Coherence Tomography"
+  authors:
+    - H B Price
+    - E Jelly
+    - K Lu
+    - E O'Kane
+    - B Cox
+    - D A Miller
+    - A P Wax
+  journal: "Optical Coherence Tomography, OCT 2024 in Proceedings Optica Biophotonics Congress: Biomedical Optics 2024, Translational, Microscopy, OCT, OTS, BRAIN - Part of Optica Biophotonics Congress: Biomedical Optics"
+  year: 2024
+  type: "conference-paper"
+  citation: "H B Price, E Jelly, K Lu et al. Dual Spectrometer Alignment, Optimization, and Phantom-based Recalibration Towards Retinal Measurement via Balanced Detection Low-cost Optical Coherence Tomography. Optical Coherence Tomography, OCT 2024 in Proceedings Optica Biophotonics Congress: Biomedical Optics 2024, Translational, Microscopy, OCT, OTS, BRAIN - Part of Optica Biophotonics Congress: Biomedical Optics. 2024."
+- title: "Dual Spectrometer Alignment, Optimization, and Phantom-based Recalibration Towards Retinal Measurement via Balanced Detection Low-cost Optical Coherence Tomography"
+  authors:
+    - H B Price
+    - E Jelly
+    - K Lu
+    - E O'Kane
+    - B Cox
+    - D A Miller
+    - A P Wax
+  journal: Optical Coherence Tomography Oct 2024 in Proceedings Optica Biophotonics Congress Biomedical Optics 2024 Translational Microscopy Oct Ots Brain Part of Optica Biophotonics Congress Biomedical Optics
+  year: 2024
+  type: "conference-paper"
+  url: "https://doi.org/10.1364/oct.2024.ctu3e.2"
+  citation: "H B Price, E Jelly, K Lu et al. Dual Spectrometer Alignment, Optimization, and Phantom-based Recalibration Towards Retinal Measurement via Balanced Detection Low-cost Optical Coherence Tomography. Optical Coherence Tomography Oct 2024 in Proceedings Optica Biophotonics Congress Biomedical Optics 2024 Translational Microscopy Oct Ots Brain Part of Optica Biophotonics Congress Biomedical Optics. 2024."
+- title: "Analysis of intracellular transport dynamics using quantitative phase imaging and FRET-based calcium sensors"
+  authors:
+    - "Robert E Highland, III"
+    - Albert Rancu
+    - Hillel Price
+    - Steven M Parker
+    - Meghan Reynolds
+    - Brenton D. Hoffman
+    - Adam Wax
+  year: 2023
+  type: preprint
+  url: "https://doi.org/10.1101/2023.05.05.539565"
+  citation: "Robert E Highland, III, Albert Rancu, Hillel Price et al. Analysis of intracellular transport dynamics using quantitative phase imaging and FRET-based calcium sensors 2023."
+- title: Multiscale optical phase fluctuations link disorder strength and fractal dimension of cell structure.
+  authors:
+    - Albert Rancu
+    - Cindy X Chen
+    - Hillel Price
+    - Adam Wax
+  journal: Biophysical Journal
+  year: 2023
+  type: "journal-article"
+  url: "https://doi.org/10.1016/j.bpj.2023.03.005"
+  citation: "Albert Rancu, Cindy X Chen, Hillel Price et al. Multiscale optical phase fluctuations link disorder strength and fractal dimension of cell structure.. Biophysical Journal. 2023."
+- title: "Holography Cytometry: Imaging of Cells in Flow"
+  authors:
+    - Cindy X. Chen
+    - Hillel B. Price
+    - Adam Wax
+  journal: "Holography - Recent Advances and Applications"
+  year: 2023
+  type: "book-chapter"
+  url: "http://dx.doi.org/10.5772/intechopen.106581"
+  citation: "Cindy X. Chen, Hillel B. Price, Adam Wax et al. Holography Cytometry: Imaging of Cells in Flow. Holography - Recent Advances and Applications. 2023."
+- title: Multiscale Quantitative Phase Imaging Yields Fractal Dimension of Cellular Structures
+  authors:
+    - A Rancu
+    - C X Chen
+    - H Price
+    - A Wax
+  journal: Novel Techniques in Microscopy NTM 2023
+  year: 2023
+  type: "conference-paper"
+  url: "https://doi.org/10.1364/NTM.2023.NTh1C.2"
+  citation: "A Rancu, C X Chen, H Price et al. Multiscale Quantitative Phase Imaging Yields Fractal Dimension of Cellular Structures. Novel Techniques in Microscopy NTM 2023. 2023."
+- title: Combined Quantitative Phase Microscopy and Förster Resonance Energy Transfer Imaging for Analyzing Endothelial Cell Shear Stress Response
+  authors:
+    - T Highland
+    - S M Parker
+    - H Price
+    - M Reynolds
+    - S He
+    - B D Hoffman
+    - A Wax
+  journal: Optics InfoBase Conference Papers
+  year: 2022
+  type: "conference-paper"
+  citation: "T Highland, S M Parker, H Price et al. Combined Quantitative Phase Microscopy and Förster Resonance Energy Transfer Imaging for Analyzing Endothelial Cell Shear Stress Response. Optics InfoBase Conference Papers. 2022."
+- title: "Deep imaging with 1.3 µm dual-axis optical coherence tomography and an enhanced depth of focus."
+  authors:
+    - Evan T Jelly
+    - Yang Zhao
+    - Kengyeh K Chu
+    - Hillel Price
+    - Michael Crose
+    - Zachary A Steelman
+    - Adam Wax
+  journal: Biomedical Optics Express
+  year: 2021
+  type: "journal-article"
+  url: "https://doi.org/10.1364/boe.438621"
+  citation: "Evan T Jelly, Yang Zhao, Kengyeh K Chu et al. Deep imaging with 1.3 µm dual-axis optical coherence tomography and an enhanced depth of focus.. Biomedical Optics Express. 2021."
+- title: "Automated Classification of Breast Cancer Cells Using High-Throughput Holographic Cytometry"
+  authors:
+    - C X Chen
+    - H S Park
+    - H Price
+    - A Wax
+  journal: Frontiers in Physics
+  year: 2021
+  type: "journal-article"
+  url: "https://doi.org/10.3389/fphy.2021.759142"
+  citation: "C X Chen, H S Park, H Price et al. Automated Classification of Breast Cancer Cells Using High-Throughput Holographic Cytometry. Frontiers in Physics. 2021."
+- title: "Single Cell Analysis of Stored Red Blood Cells Using Ultra-High Throughput Holographic Cytometry."
+  authors:
+    - "Han-Sang Park"
+    - Hillel Price
+    - Silvia Ceballos
+    - "Jen-Tsan Chi"
+    - Adam Wax
+  journal: Cells
+  year: 2021
+  type: "journal-article"
+  url: "https://doi.org/10.3390/cells10092455"
+  citation: "Han-Sang Park, Hillel Price, Silvia Ceballos et al. Single Cell Analysis of Stored Red Blood Cells Using Ultra-High Throughput Holographic Cytometry.. Cells. 2021."
+- title: "Sensing Inhalation Injury-Associated Changes in Airway Wall Compliance by Anatomic Optical Coherence Elastography."
+  authors:
+    - Ruofei Bu
+    - Santosh Balakrishnan
+    - Nicusor Iftimia
+    - Hillel Price
+    - Carlton Zdanski
+    - Sorin Mitran
+    - Amy L Oldenburg
+  journal: IEEE Transactions on Biomedical Engineering
+  year: 2021
+  type: "journal-article"
+  url: "https://doi.org/10.1109/tbme.2020.3037288"
+  citation: "Ruofei Bu, Santosh Balakrishnan, Nicusor Iftimia et al. Sensing Inhalation Injury-Associated Changes in Airway Wall Compliance by Anatomic Optical Coherence Elastography.. IEEE Transactions on Biomedical Engineering. 2021."
+- title: Combined quantitative phase microscopy and förster resonance energy transfer for analyzing cell ion dynamics
+  authors:
+    - S M Parker
+    - H Price
+    - M Reynolds
+    - S He
+    - B D Hoffman
+    - A Wax
+  journal: Optics InfoBase Conference Papers
+  year: 2021
+  type: "conference-paper"
+  citation: "S M Parker, H Price, M Reynolds et al. Combined quantitative phase microscopy and förster resonance energy transfer for analyzing cell ion dynamics. Optics InfoBase Conference Papers. 2021."
+- title: Quantitative Phase Microscopy and Förster Resonance Energy Transfer for Analyzing Cell Ion Dynamics
+  authors:
+    - Steven M. Parker
+    - Hillel Price
+    - Meghan Reynolds
+    - Christopher Gilchrist
+    - Brenton D. Hoffman
+    - Adam Wax
+  journal: BMES
+  year: 2021
+  type: "conference-abstract"
+  citation: "Steven M. Parker, Hillel Price, Meghan Reynolds et al. Quantitative Phase Microscopy and Förster Resonance Energy Transfer for Analyzing Cell Ion Dynamics. BMES. 2021."
+- title: Localized compliance measurement of the airway wall using anatomic optical coherence elastography.
+  authors:
+    - Ruofei Bu
+    - Santosh Balakrishnan
+    - Hillel Price
+    - Carlton Zdanski
+    - Sorin Mitran
+    - Amy L Oldenburg
+  journal: Optics Express
+  year: 2019
+  type: "journal-article"
+  url: "https://doi.org/10.1364/oe.27.016751"
+  citation: "Ruofei Bu, Santosh Balakrishnan, Hillel Price et al. Localized compliance measurement of the airway wall using anatomic optical coherence elastography.. Optics Express. 2019."
+- title: "Geometric Validation of Continuous, Finely Sampled 3-D Reconstructions From aOCT and CT in Upper Airway Models"
+  authors:
+    - Hillel B. Price
+    - Julia S. Kimbell
+    - Ruofei Bu
+    - Amy L. Oldenburg
+  journal: IEEE Transactions on Medical Imaging
+  year: 2019
+  type: "journal-article"
+  url: "https://doi.org/10.1109/TMI.2018.2876625"
+  citation: "Hillel B. Price, Julia S. Kimbell, Ruofei Bu et al. Geometric Validation of Continuous, Finely Sampled 3-D Reconstructions From aOCT and CT in Upper Airway Models. IEEE Transactions on Medical Imaging. 2019."
+- title: Combined anatomical optical coherence tomography and intraluminal pressure reveal viscoelasticity of the in vivo airway.
+  authors:
+    - Santosh Balakrishnan
+    - Ruofei Bu
+    - Nicusor Iftimia
+    - Hillel Price
+    - Carlton Zdanski
+    - Amy L Oldenburg
+  journal: Journal of Biomedical Optics
+  year: 2018
+  type: "journal-article"
+  url: "https://doi.org/10.1117/1.jbo.23.10.100501"
+  citation: "Santosh Balakrishnan, Ruofei Bu, Nicusor Iftimia et al. Combined anatomical optical coherence tomography and intraluminal pressure reveal viscoelasticity of the in vivo airway.. Journal of Biomedical Optics. 2018."
+- title: Airway compliance measured by anatomic optical coherence tomography
+  authors:
+    - "Bu, R."
+    - "Balakrishnan, S."
+    - "Iftimia, N."
+    - "Price, H."
+    - "Zdanski, C."
+    - "Oldenburg, A.L."
+  journal: Biomedical Optics Express
+  year: 2017
+  type: "journal-article"
+  url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-85016946330&partnerID=MN8TOARS"
+  citation: "Bu, R., Balakrishnan, S., Iftimia, N. et al. Airway compliance measured by anatomic optical coherence tomography. Biomedical Optics Express. 2017."
+- title: Anatomic optical coherence tomography for dynamic imaging of the upper airway
+  authors:
+    - "Bu, R."
+    - "Balakrishnan, S."
+    - "Iftimia, N."
+    - "Price, H."
+    - "Zdanski, C."
+    - "Oldenburg, A.L."
+  journal: "Progress in Biomedical Optics and Imaging - Proceedings of SPIE"
+  year: 2017
+  type: "conference-paper"
+  url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-85020265329&partnerID=MN8TOARS"
+  citation: "Bu, R., Balakrishnan, S., Iftimia, N. et al. Anatomic optical coherence tomography for dynamic imaging of the upper airway. Progress in Biomedical Optics and Imaging - Proceedings of SPIE. 2017."
+- title: "Multi-modal anatomical optical coherence tomography and CT for in vivo dynamic upper airway imaging"
+  authors:
+    - "Balakrishnan, S."
+    - "Bu, R."
+    - "Price, H."
+    - "Zdanski, C."
+    - "Oldenburg, A.L."
+  journal: "Progress in Biomedical Optics and Imaging - Proceedings of SPIE"
+  year: 2017
+  type: "conference-paper"
+  url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-85019056442&partnerID=MN8TOARS"
+  citation: "Balakrishnan, S., Bu, R., Price, H. et al. Multi-modal anatomical optical coherence tomography and CT for in vivo dynamic upper airway imaging. Progress in Biomedical Optics and Imaging - Proceedings of SPIE. 2017."
+- title: "Swept-source anatomic optical coherence elastography of porcine trachea"
+  authors:
+    - "Bu, R."
+    - "Price, H."
+    - "Mitran, S."
+    - "Zdanski, C."
+    - "Oldenburg, A.L."
+  journal: "Progress in Biomedical Optics and Imaging - Proceedings of SPIE"
+  year: 2016
+  type: "conference-paper"
+  url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-84973326065&partnerID=MN8TOARS"
+  citation: "Bu, R., Price, H., Mitran, S. et al. Swept-source anatomic optical coherence elastography of porcine trachea. Progress in Biomedical Optics and Imaging - Proceedings of SPIE. 2016."
+- title: "Quantitative upper airway endoscopy with swept-source anatomical optical coherence tomography"
+  authors:
+    - "Wijesundara, K."
+    - "Zdanski, C."
+    - "Kimbell, J."
+    - "Price, H."
+    - "Iftimia, N."
+    - "Oldenburg, A.L."
+  journal: Biomedical Optics Express
+  year: 2014
+  type: "journal-article"
+  url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-84895748299&partnerID=MN8TOARS"
+  citation: "Wijesundara, K., Zdanski, C., Kimbell, J. et al. Quantitative upper airway endoscopy with swept-source anatomical optical coherence tomography. Biomedical Optics Express. 2014."
+- title: Optimization of immunolabeled plasmonic nanoparticles for cell surface receptor analysis
+  authors:
+    - "Seekell, K."
+    - "Price, H."
+    - "Marinakos, S."
+    - "Wax, A."
+  journal: Methods
+  year: 2012
+  type: "journal-article"
+  url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-84858448786&partnerID=MN8TOARS"
+  citation: "Seekell, K., Price, H., Marinakos, S. et al. Optimization of immunolabeled plasmonic nanoparticles for cell surface receptor analysis. Methods. 2012."
+- title: Controlled synthesis of gold nanorods and application to brain tumor delineation
+  authors:
+    - K Seekell
+    - C Wilson
+    - H Price
+    - G Grant
+    - A Wax
+  journal: Optics InfoBase Conference Papers
+  year: 2011
+  type: "conference-paper"
+  citation: "K Seekell, C Wilson, H Price et al. Controlled synthesis of gold nanorods and application to brain tumor delineation. Optics InfoBase Conference Papers. 2011."
+- title: Controlled synthesis of gold nanorods and application to brain tumor delineation
+  authors:
+    - K Seekell
+    - C Wilson
+    - H Price
+    - G Grant
+    - A Wax
+  journal: Optics InfoBase Conference Papers
+  year: 2011
+  type: "conference-paper"
+  url: "https://doi.org/10.1364/fio.2011.fwl4"
+  citation: "K Seekell, C Wilson, H Price et al. Controlled synthesis of gold nanorods and application to brain tumor delineation. Optics InfoBase Conference Papers. 2011."
+- title: Controlled synthesis of gold nanorods and application to brain tumor delineation
+  authors:
+    - "Seekell, K."
+    - "Wilson, C."
+    - "Price, H."
+    - "Grant, G."
+    - "Wax, A."
+  journal: Optics InfoBase Conference Papers
+  year: 2011
+  type: "conference-paper"
+  url: "http://www.scopus.com/inward/record.url?eid=2-s2.0-84893528427&partnerID=MN8TOARS"
+  citation: "Seekell, K., Wilson, C., Price, H. et al. Controlled synthesis of gold nanorods and application to brain tumor delineation. Optics InfoBase Conference Papers. 2011."
