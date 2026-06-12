@@ -1,0 +1,41 @@
+<section class="publications-page">
+  <div class="publication-banner">
+    <div>
+      <p class="publication-label">Publications</p>
+      <h1 class="publication-title-heading">Peer-reviewed publications</h1>
+      <p class="publication-intro">This list is synchronized automatically from ORCID. Download the BibTeX file below to cite my work in reference managers or LaTeX documents.</p>
+    </div>
+    <div class="publication-actions">
+      <a class="button button--secondary" href="{{ '/publications.bib' | relative_url }}">Download BibTeX</a>
+    </div>
+  </div>
+
+  {% if site.data.publications and site.data.publications.size > 0 %}
+    <ol class="publication-list">
+      {% for publication in site.data.publications | sort: 'year' | reverse %}
+        <li class="publication-item">
+          <div class="publication-item__top">
+            {% if publication.url %}
+              <a class="publication-link" href="{{ publication.url }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a>
+            {% else %}
+              <span class="publication-link">{{ publication.title }}</span>
+            {% endif %}
+            {% if publication.type %}
+              <span class="publication-badge">{{ publication.type | replace: '-', ' ' | capitalize }}</span>
+            {% endif %}
+          </div>
+          {% if publication.authors %}
+            <p class="publication-authors">{{ publication.authors | join: ', ' }}</p>
+          {% endif %}
+          <p class="publication-meta">
+            {% if publication.journal %}{{ publication.journal }}{% endif %}
+            {% if publication.year %}{% if publication.journal %} · {% endif %}{{ publication.year }}{% endif %}
+          </p>
+          <p class="publication-citation">{{ publication.citation }}</p>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    <div class="publication-empty">No publications are available yet. The list is updated automatically from ORCID.</div>
+  {% endif %}
+</section>
