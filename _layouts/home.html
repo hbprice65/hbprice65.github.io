@@ -7,6 +7,10 @@ layout: default
   <p>{{ page.excerpt | default: site.description }}</p>
 </section>
 
+<section class="page-body">
+  {{ content }}
+</section>
+
 {% if page.sections %}
 <section class="section-nav">
   <div class="section-nav__grid">
@@ -22,7 +26,3 @@ layout: default
   </div>
 </section>
 {% endif %}
-
-<section class="page-body">
-  {{ content }}
-</section>

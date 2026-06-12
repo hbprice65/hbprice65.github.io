@@ -29,9 +29,13 @@ sections:
     icon: "❓"
 ---
 
-Expert Engineer in Systems, Optical, Hardware, Imaging, Clinical, Biomedical, Photonics, Microscopy, Spectroscopy, 3D printing.
-
-Since 2009 I have worked as a employee and student in biomedical optics/imaging labs at Duke University and UNC Chapel Hill. My role and skills have evolved over time. This page is designed to share what I can do with the world.
+<div class="intro-grid">
+  <img class="intro-grid__image" src="/assets/images/headshot.JPG" alt="Hillel Price headshot" />
+  <div class="intro-grid__text">
+    <p>Expert Engineer in Systems, Optical, Hardware, Imaging, Clinical, Biomedical, Photonics, Microscopy, Spectroscopy, 3D printing.</p>
+    <p>Since 2009 I have worked as an employee and student in biomedical optics/imaging labs at Duke University and UNC Chapel Hill. My role and skills have evolved over time. This page is designed to share what I can do with the world.</p>
+  </div>
+</div>
 
 Complete lists of my peer-reviewed publications can be found at my Google Scholar and ORCiD pages.
 

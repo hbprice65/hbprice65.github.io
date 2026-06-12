@@ -8,8 +8,15 @@
       <header class="site-header">
         <div class="site-branding">
           <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | default: page.title }}</a>
-          <p class="site-description">{{ site.description }}</p>
         </div>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <ul class="site-nav__list">
+            <li><a href="{{ '/#bio' | relative_url }}">Bio</a></li>
+            <li><a href="{{ '/#research-projects' | relative_url }}">Research</a></li>
+            <li><a href="{{ '/#publications' | relative_url }}">Publications</a></li>
+            <li><a href="{{ '/#clinical-work' | relative_url }}">Clinical</a></li>
+          </ul>
+        </nav>
       </header>
 
       <main class="site-content">
