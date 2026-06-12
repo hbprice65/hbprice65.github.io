@@ -1,0 +1,38 @@
+name: Update Publications
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 8 * * 1'
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch ORCID publication metadata
+        run: python scripts/update_publications.py
+        env:
+          ORCID_ID: 0000-0002-5299-9421
+
+      - name: Commit and push publication update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- _data/publications.yml publications.bib; then
+            echo "No publication changes to commit."
+            exit 0
+          fi
+          git add _data/publications.yml publications.bib
+          git commit -m "Update publications from ORCID"
+          git push
