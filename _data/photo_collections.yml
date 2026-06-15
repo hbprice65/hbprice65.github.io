@@ -1,0 +1,19 @@
+profile:
+  title: "Profile photos"
+  images:
+    - src: /assets/images/cartoonSA1Study.png
+      alt: "Retinal Scanning"
+    - src: /assets/images/hooding.jpg
+      alt: "Ph.D. Hooding Ceremony"
+    - src: /assets/images/spie.jpg
+      alt: "SPIE Photonics West"
+    - src: /assets/images/cookies.jpg
+      alt: "Famous Chocolate Chip Cookies"
+
+lab:
+  title: "Lab and research photos"
+  images:
+    - src: /assets/images/IMG_20240312_103825.jpg
+      alt: "Lab setup"
+    - src: /assets/images/Xit4uLK.jpg
+      alt: "Conference presentation"
