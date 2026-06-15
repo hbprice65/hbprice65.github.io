@@ -3,10 +3,12 @@ profile:
   images:
     - src: /assets/images/cartoonSA1Study.png
       alt: "Retinal Scanning"
-    - src: /assets/images/HuthPhoto-DukePhD_2026PM-HUT_1679 (1).jpg
+    - src: /assets/images/hooding.jpg
       alt: "Ph.D. Hooding Ceremony"
-    - src: /assets/images/Xit4uLK.jpg
-      alt: "Conference presentation"
+    - src: /assets/images/spie.jpg
+      alt: "SPIE Photonics West"
+    - src: /assets/images/cookies.jpg
+      alt: "Famous Chocolate Chip Cookies"
 
 lab:
   title: "Lab and research photos"

@@ -94,7 +94,7 @@ body {
 
 .intro-grid {
   display: grid;
-  grid-template-columns: minmax(180px, 220px) 1fr;
+  grid-template-columns: minmax(100px, 140px) 1fr;
   gap: 1.5rem;
   align-items: start;
   margin: 0 auto 2rem;
@@ -184,10 +184,21 @@ body {
     width: clamp(160px, 82vw, 220px);
   }
 }
-
+// ipad view
 @media (max-width: 800px) {
   .intro-grid {
     grid-template-columns: 1fr;
+  }
+
+  .intro-grid__image {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+}
+// iphone view
+@media (max-width: 640px) {
+  .intro-grid__image {
+    max-width: 230px;
   }
 }
 
