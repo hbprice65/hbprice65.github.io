@@ -1,0 +1,17 @@
+profile:
+  title: "Profile photos"
+  images:
+    - src: /assets/images/cartoonSA1Study.png
+      alt: "Retinal Scanning"
+    - src: /assets/images/HuthPhoto-DukePhD_2026PM-HUT_1679 (1).jpg
+      alt: "Ph.D. Hooding Ceremony"
+    - src: /assets/images/Xit4uLK.jpg
+      alt: "Conference presentation"
+
+lab:
+  title: "Lab and research photos"
+  images:
+    - src: /assets/images/IMG_20240312_103825.jpg
+      alt: "Lab setup"
+    - src: /assets/images/Xit4uLK.jpg
+      alt: "Conference presentation"
